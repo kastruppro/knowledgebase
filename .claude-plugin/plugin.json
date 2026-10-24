@@ -1,0 +1,19 @@
+{
+  "name": "knowledgebase",
+  "displayName": "Knowledge Base",
+  "version": "0.1.0",
+  "description": "Build your own local Markdown/Obsidian knowledge base that AI agents search before answering and keep up to date, with verification status on every article.",
+  "author": {
+    "name": "kastruppro"
+  },
+  "repository": "https://github.com/kastruppro/knowledgebase",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-base",
+    "obsidian",
+    "markdown",
+    "notes",
+    "search"
+  ],
+  "skills": "./skills/"
+}

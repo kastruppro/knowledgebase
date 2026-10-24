@@ -1,0 +1,14 @@
+{
+  "name": "knowledgebase",
+  "description": "Local Markdown/Obsidian knowledge base skills for Claude Code.",
+  "owner": {
+    "name": "kastruppro"
+  },
+  "plugins": [
+    {
+      "name": "knowledgebase",
+      "source": "./",
+      "description": "Skills to set up, search and maintain your own local knowledge base."
+    }
+  ]
+}

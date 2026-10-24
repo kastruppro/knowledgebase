@@ -1,0 +1,5 @@
+# Obsidian per-device state; the rest of .obsidian/ (settings, plugins) is worth versioning.
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+.DS_Store

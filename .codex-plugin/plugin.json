@@ -1,0 +1,34 @@
+{
+  "name": "knowledgebase",
+  "version": "0.1.0",
+  "description": "Skills to set up, search and maintain your own local Markdown/Obsidian knowledge base.",
+  "author": {
+    "name": "kastruppro"
+  },
+  "repository": "https://github.com/kastruppro/knowledgebase",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-base",
+    "obsidian",
+    "markdown",
+    "notes",
+    "search"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Knowledge Base",
+    "shortDescription": "Your own searchable Obsidian knowledge base",
+    "longDescription": "Set up a local Markdown/Obsidian knowledge base, let Codex search it before answering, and add verified articles or unverified drafts as you work. Everything stays on your machine.",
+    "developerName": "kastruppro",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Set up a knowledge base for my notes.",
+      "Check my knowledge base before answering."
+    ]
+  }
+}
